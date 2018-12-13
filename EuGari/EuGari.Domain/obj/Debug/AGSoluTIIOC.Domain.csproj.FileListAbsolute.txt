@@ -1,0 +1,4 @@
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Domain\bin\Debug\AGSoluTIIOC.Domain.dll
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Domain\bin\Debug\AGSoluTIIOC.Domain.pdb
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Domain\obj\Debug\AGSoluTIIOC.Domain.dll
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Domain\obj\Debug\AGSoluTIIOC.Domain.pdb

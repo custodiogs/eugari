@@ -1,0 +1,14 @@
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EuGari.Infra.dll.config
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EuGari.Infra.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EuGari.Infra.pdb
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EuGari.Domain.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EuGari.Domain.pdb
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\obj\Debug\EuGari.Infra.csprojAssemblyReference.cache
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\obj\Debug\EuGari.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\obj\Debug\EuGari.Infra.csproj.CopyComplete
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\obj\Debug\EuGari.Infra.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Infra\obj\Debug\EuGari.Infra.pdb

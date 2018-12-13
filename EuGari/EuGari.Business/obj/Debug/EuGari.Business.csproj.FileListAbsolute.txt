@@ -1,0 +1,14 @@
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\AGSoluTIIOC.Business.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\AGSoluTIIOC.Business.pdb
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\EuGari.Domain.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\EuGari.Infra.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\EntityFramework.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\EuGari.Domain.pdb
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\EuGari.Infra.pdb
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\EuGari.Infra.dll.config
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\bin\Debug\EntityFramework.xml
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\obj\Debug\EuGari.Business.csprojAssemblyReference.cache
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\obj\Debug\EuGari.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\obj\Debug\EuGari.Business.csproj.CopyComplete
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\obj\Debug\AGSoluTIIOC.Business.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Business\obj\Debug\AGSoluTIIOC.Business.pdb

@@ -1,0 +1,11 @@
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\AGSoluTIIOC.Business.dll
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\AGSoluTIIOC.Business.pdb
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\AGSoluTIIOC.Domain.dll
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\AGSoluTIIOC.Infra.dll
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\EntityFramework.dll
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\AGSoluTIIOC.Domain.pdb
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\AGSoluTIIOC.Infra.pdb
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\bin\Debug\EntityFramework.xml
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\obj\Debug\AGSoluTIIOC.Business.csprojResolveAssemblyReference.cache
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\obj\Debug\AGSoluTIIOC.Business.dll
+c:\users\gcsousa\documents\visual studio 2015\Projects\AGSoluTIIoc\AGSoluTIIOC.Business\obj\Debug\AGSoluTIIOC.Business.pdb

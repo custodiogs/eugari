@@ -1,0 +1,6 @@
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Domain\bin\Debug\EuGari.Domain.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Domain\bin\Debug\EuGari.Domain.pdb
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Domain\obj\Debug\EuGari.Domain.csprojAssemblyReference.cache
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Domain\obj\Debug\EuGari.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Domain\obj\Debug\EuGari.Domain.dll
+C:\Users\Gilmar Sousa\Projetos\EuGari\Source\EuGari\EuGari.Domain\obj\Debug\EuGari.Domain.pdb
